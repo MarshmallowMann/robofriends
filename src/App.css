@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "HACKED Regular";
+  font-style: 1000;
+  font-weight: 1000;
+  src: local("HACKED Regular"), url("HACKED_Title.woff") format("woff");
+}
+
+.margins {
+  font-family: "Hacked Regular";
+  font-weight: 1000;
+  margin: 0em;
+  margin-bottom: -0.2em;
+  color: rgba(3, 5, 14, 0.897);
+}
